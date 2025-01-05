@@ -5,17 +5,18 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LSC.OnlineCourse.Core.Data;
 
-public partial class YourDbContext : DbContext
+public partial class OnlineCourseDbContext : DbContext
 {
-    public YourDbContext()
+    public OnlineCourseDbContext()
     {
     }
 
-    public YourDbContext(DbContextOptions<YourDbContext> options)
+    public OnlineCourseDbContext(DbContextOptions<OnlineCourseDbContext> options)
         : base(options)
     {
     }
-
+//Every table in database needs to be configured as DBSet<T> where T denotes the table name
+//We did all 10 tables from databaase so that we can use it in our application
     public virtual DbSet<Course> Courses { get; set; }
 
     public virtual DbSet<CourseCategory> CourseCategories { get; set; }
@@ -44,6 +45,7 @@ public partial class YourDbContext : DbContext
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Server=localhost;Database=OnlineCourseDB;User Id=SA;Password=Strong.Pwd-123;TrustServerCertificate=True;");
 
+//All conigurations for tables are done here. These helps EF Core to know where what we try to insert/update is valid or not. e.g. if you try to insert a record in Course table with CategoryId which is not present in CourseCategory table, it will throw an error
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Course>(entity =>
