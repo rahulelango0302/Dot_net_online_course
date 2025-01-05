@@ -1,0 +1,15 @@
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/bin/Debug/net8.0/LSC.OnlineCourse.Core.deps.json
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/bin/Debug/net8.0/LSC.OnlineCourse.Core.runtimeconfig.json
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/bin/Debug/net8.0/LSC.OnlineCourse.Core.dll
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/bin/Debug/net8.0/LSC.OnlineCourse.Core.pdb
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.csproj.AssemblyReference.cache
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.AssemblyInfoInputs.cache
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.AssemblyInfo.cs
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.csproj.CoreCompileInputs.cache
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.sourcelink.json
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.dll
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/refint/LSC.OnlineCourse.Core.dll
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.pdb
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/LSC.OnlineCourse.Core.genruntimeconfig.cache
+/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Core/obj/Debug/net8.0/ref/LSC.OnlineCourse.Core.dll
