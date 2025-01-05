@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.Service/LSC.OnlineCourse.Service.csproj",
+      "projectUniqueName": "/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Service/LSC.OnlineCourse.Service.csproj",
       "projectName": "LSC.OnlineCourse.Service",
-      "projectPath": "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.Service/LSC.OnlineCourse.Service.csproj",
+      "projectPath": "/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Service/LSC.OnlineCourse.Service.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.Service/obj/",
+      "outputPath": "/Users/admin/Developer/DotNetProject/LSC.OnlineCourse.Service/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/admin/.nuget/NuGet/NuGet.Config"
