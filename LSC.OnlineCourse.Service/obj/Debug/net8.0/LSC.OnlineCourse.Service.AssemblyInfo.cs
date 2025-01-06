@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LSC.OnlineCourse.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a8868013cd5e274680760c28cb4d012fbfca3a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81d5569a5e6271fbdfe9f8ec30319f77329c081c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LSC.OnlineCourse.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LSC.OnlineCourse.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
